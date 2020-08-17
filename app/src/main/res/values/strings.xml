@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">payment</string>
+    <string name="Titel">Card Details</string>
+    <string name="Name">Card Holder</string>
+    <string name="c.num">Card Number</string>
+    <string name="code">CVV Code</string>
+    <string name="E.date">Expiration Date</string>
+    <string name="type">Card Type</string>
+    <string name="cash">Amount</string>
+    <string name="button">PAY</string>
+</resources>
